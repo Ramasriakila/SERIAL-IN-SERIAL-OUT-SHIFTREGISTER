@@ -35,7 +35,7 @@ Developed by:RAMASRI K
 
 RegisterNumber:24007403
 
-module SISO(clk,sin,q);
+module SISO1(clk,sin,q);
 
 input clk;
 
