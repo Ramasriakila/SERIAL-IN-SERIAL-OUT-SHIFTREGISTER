@@ -65,12 +65,11 @@ endmodule
 
 **RTL LOGIC FOR SISO Shift Register**
 
-![Screenshot 2024-12-22 225257](https://github.com/user-attachments/assets/5f4b2b69-bcab-418d-8638-74d722baad6f)
+![Screenshot 2024-12-30 215936](https://github.com/user-attachments/assets/3f8ec9af-820b-4c5c-a310-4d49c5396bee)
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![Screenshot 2024-12-22 225311](https://github.com/user-attachments/assets/0351aa27-0c72-4ea1-b9b3-bb5342fef57a)
-
+![Screenshot 2024-12-30 215955](https://github.com/user-attachments/assets/054868db-32e8-4c86-8edb-262497ec4d0a)
 
 **RESULTS** The given program for flipflops and verify its truth table in quartus using verilog programming.
